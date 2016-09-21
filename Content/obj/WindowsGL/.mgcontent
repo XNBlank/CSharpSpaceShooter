@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Blank/Documents/Visual Studio 2015/Projects/FirstAttempt/FirstAttempt/Content/Sprites/ship.png</File>
+    <File>C:/Users/Blank/Documents/Visual Studio 2015/Projects/FirstAttempt/FirstAttempt/Content/Sprites/pixel.png</File>
+    <File>C:/Users/Blank/Documents/Visual Studio 2015/Projects/FirstAttempt/FirstAttempt/Content/Sprites/star.png</File>
+    <File>C:/Users/Blank/Documents/Visual Studio 2015/Projects/FirstAttempt/FirstAttempt/Content/Sprites/enemyship.png</File>
+    <File>C:/Users/Blank/Documents/Visual Studio 2015/Projects/FirstAttempt/FirstAttempt/Content/Fonts/controlfont.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
